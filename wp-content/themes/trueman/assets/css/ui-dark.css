@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+/*--------------------------------------------
+
+1. common
+      - fonts
+      - typography
+      - button
+      - form
+      - scroll animation
+      - page transition
+      - spaces
+2. frame
+      - preloader
+      - app marcup
+      - top bar
+      - menu
+      - mobile menu button
+      - mode switcher
+3. content
+      - banner
+      - main card
+      - counters
+      - video
+      - icon box
+      - skills
+      - portfolio
+      - price
+      - testimonials
+      - timeline
+      - contact form
+      - blog
+      - pagination
+      - subscribe
+      - footer
+      - popup
+4. custom
+      - fancybox
+      - locomotive scroll
+
+--------------------------------------------*/
+
+.trm-black-icon {
+	display: none;
+}
+
+.trm-white-icon {
+	display: block;
+}

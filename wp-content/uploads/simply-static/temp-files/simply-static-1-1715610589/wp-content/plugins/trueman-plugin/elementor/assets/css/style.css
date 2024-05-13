@@ -1,0 +1,10 @@
+.elementor-editor-active {
+	overflow: auto !important;
+}
+.elementor-editor-active .trm-app-frame {
+	overflow: hidden !important;
+	height: auto !important;
+}
+.elementor-editor-active .trm-scroll-animation {
+	opacity: 1 !important;
+}

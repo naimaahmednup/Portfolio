@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/portfolio
+Data file = C:\xampp\htdocs\portfolio/wp-content/uploads/2024/03/demo-content-import-file_2024-03-04__18-55-52.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/after_import---
+
